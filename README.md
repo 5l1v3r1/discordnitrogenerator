@@ -1,11 +1,20 @@
 # discordnitrogenerator
 A simple discord nitro generator
 
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+Q&A
+
+Is this a trojan/virus?
+No. It is not a virus
+
+Will the codes work?
+No. The chances of getting a code is 1/120000 million 
+
+Why doesn't it work?
+You can't just double click it you have to type cmd and the name
 
 
-
-
-
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 How to download.
 
