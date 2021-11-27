@@ -3,6 +3,7 @@ A simple discord nitro generator
 
 ━━━━━━
 Q&A
+━━━━━━
 
 Is this a trojan/virus?
 No. It is not a virus
